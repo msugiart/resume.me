@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -41,7 +40,7 @@
             border-radius: 5px;
             cursor: pointer;
             font-weight: bold;
-            font-size: 16px;
+            font-size: 14px;
             transition: 0.3s;
         }
 
@@ -90,7 +89,7 @@
         .company-info { 
             font-style: italic; 
             color: var(--secondary); 
-            font-size: 13px; 
+            font-size: 12px; 
             margin: 4px 0;
             display: block;
         }
@@ -128,7 +127,7 @@
 
     <div class="cv-container" id="cv-content">
         <header>
-            <h1>MIGI SETYO SUGIARTO ADI [cite: 1]</h1>
+            <h1>MIGI SETYO SUGIARTO ADI</h1>
             <div class="contact">
                 migisetyosa@gmail.com | 08112683668 | Kota Semarang | Indonesia 
             </div>
